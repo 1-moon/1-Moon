@@ -13,5 +13,3 @@
 
 📮  Contact       
                      
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1-moon&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=1-moon&show_icons=true">                  
