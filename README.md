@@ -13,7 +13,10 @@
 	📜  Majors
 			//   Computer Science with high performance BSc.
 	📰  Learning
+			//	Graphics, Machine Learning, Algorithms.
 	📮  Contact  
+			//	LinkedIn : linkedin.com/in/hanmoon-hwang-a46697265
+			//	Email : hhm9124@gmail.com
 		
 ## 📚 Tech Stack 📚
 
