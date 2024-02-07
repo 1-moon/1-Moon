@@ -16,7 +16,7 @@
 			//	Graphics, Data structure, Algorithms etc.. 
 	📮  Contact  
 			//	LinkedIn : linkedin.com/in/hanmoon-hwang-a46697265
-			//	Email : hhm9124@gmail.com
+			//	Email : hhm9124@gmail.com, sc21h2h@leeds.ac.uk
 		
 ## 📚 Tech Stack 📚
 
