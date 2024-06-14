@@ -8,16 +8,20 @@
 
 ## About me
 
-	🎓  Alumni				
-			//   	University of Leeds	
-	📜  Majors
-			//   	Computer Science with high performance BSc.
-	📰  Learning
-			//	Graphics, Data structure, Algorithms etc.. 
-	📮  Contact  
-			//	LinkedIn : linkedin.com/in/hanmoon-hwang-a46697265
-			//	Email : hhm9124@gmail.com, sc21h2h@leeds.ac.uk
-<div>[Curriculam Vitae](https://github.com/1-moon/1-Moon/blob/main/cv.pdf)</div>
+🎓 Alumni  
+- University of Leeds  
+
+📜 Majors  
+- Computer Science with high performance BSc.  
+
+📚 Learning  
+- Graphics, Data structure, Algorithms etc.  
+
+📮 Contact  
+- LinkedIn: [hanmoon-hwang](https://linkedin.com/in/hanmoon-hwang-a46697265)  
+- Email: hhm9124@gmail.com, sc21h2h@leeds.ac.uk  
+- [Curriculum Vitae](https://github.com/1-moon/1-Moon/blob/main/cv.pdf)
+
 ## 📚 Tech Stack 📚
 
 <div align="center">
