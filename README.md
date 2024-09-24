@@ -12,7 +12,7 @@
 - University of Leeds  
 
 📜 Majors  
-- Computer Science with high performance BSc.  
+- Computer Science BSc.  
 
 📚 Learning  
 - Graphics, Data structure, Algorithms etc.  
