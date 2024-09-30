@@ -44,5 +44,8 @@
 	<img src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter" />
 </div>
 
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green" />
+</div>
 
 
