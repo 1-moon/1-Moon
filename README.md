@@ -38,14 +38,13 @@
 	<br>
 </div>
 <div align="center">
-	<p>🛠 Tools 🛠</p>
+	<p>🛠 Tools / Design 🛠</p>
 	<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 	<img src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter" />
+	<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
-<div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?1-moon={1-moon}&theme=blue-green" />
-</div>
+
 
 
