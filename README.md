@@ -39,12 +39,10 @@
 </div>
 <div align="center">
 	<p>🛠 Tools 🛠</p>
-		<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC style=flat&logo=VisualStudioCode&logoColor=white" />
-		<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+	<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+	<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div>
 
-<div align=center>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1-moon&layout=compact">
-	<img src="https://github-readme-stats.vercel.app/api?username=1-moon&show_icons=true">
-</div>
+
 
