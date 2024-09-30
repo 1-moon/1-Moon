@@ -3,7 +3,7 @@
 </div>
 <div align=center>
 	<div>Hello👋, I'm Hanmoon</div>
-	<div>I'm currently studying Computer Science in Leeds</div>
+	<div>I'm a computer visual lover who is trying to be a visual generalist.</div>
 </div>
 
 ## About me
@@ -15,7 +15,7 @@
 - Computer Science BSc.  
 
 📚 Learning  
-- Graphics, Data structure, Algorithms etc.  
+- Graphics, UI, AI etc.  
 
 📮 Contact  
 - LinkedIn: [hanmoon-hwang](https://linkedin.com/in/hanmoon-hwang-a46697265)  
@@ -26,6 +26,7 @@
 
 <div align="center">
 	<p>✨ Platforms & Languages ✨</p>
+	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
