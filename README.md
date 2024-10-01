@@ -15,7 +15,7 @@
 - Computer Science BSc.  
 
 📚 Learning  
-- Graphics, UI, AI etc.  
+- Graphics, UI, Web programming, AI etc.  
 
 📮 Contact  
 - LinkedIn: [hanmoon-hwang](https://linkedin.com/in/hanmoon-hwang-a46697265)  
