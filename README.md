@@ -12,10 +12,11 @@
 - University of Leeds  
 
 📜 Majors  
-- Computer Science BSc.  
+- Computer Science BSc.
+- Computer Graphics MSc (On Going)  
 
 📚 Learning  
-- Graphics, UI, Web programming, AI etc.  
+- Computer Graphics.  
 
 📮 Contact  
 - LinkedIn: [hanmoon-hwang](https://linkedin.com/in/hanmoon-hwang-a46697265)  
