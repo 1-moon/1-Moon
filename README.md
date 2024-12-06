@@ -13,14 +13,14 @@
 
 📜 Majors  
 - Computer Science BSc.
-- Computer Graphics MSc (On Going)  
+
 
 📚 Learning  
 - Computer Graphics.  
 
 📮 Contact  
 - LinkedIn: [hanmoon-hwang](https://linkedin.com/in/hanmoon-hwang-a46697265)  
-- Email: hhm9124@gmail.com, sc21h2h@leeds.ac.uk  
+- Email: hhm9124@gmail.com  
 - [Curriculum Vitae](https://github.com/1-moon/1-Moon/blob/main/cv.pdf)
 
 ## 📚 Tech Stack 📚
