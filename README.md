@@ -16,7 +16,7 @@
 
 
 📚 Learning  
-- Computer Graphics, Computer  Vision, Auto-Mobile with ROS, ML, 
+- Computer Graphics, Computer  Vision, Auto-Mobile, ROS
 
 📮 Contact  
 - LinkedIn: [hanmoon-hwang](https://linkedin.com/in/hanmoon-hwang-a46697265)  
