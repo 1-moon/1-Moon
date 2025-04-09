@@ -2,7 +2,7 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Hanmoon%20Github!&fontSize=50" />	
 </div>
 <div align=center>
-	<div>Hello👋, I'm Hanmoon</div>
+	<div>Hello👋, I'm Hanmoon Hwang</div>
 	<div>I'm a computer visual lover who is trying to be a visual generalist.</div>
 </div>
 
